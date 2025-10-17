@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtuaalsed keskkonnad
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Keskkonna muutujad
+.env
+.env.local
+
+# Logid
+*.log
+
+# OS failid
+.DS_Store
+Thumbs.db
